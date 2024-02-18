@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ant22031/ant22031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# ¡Hola! Soy Antonio Cañete👋
+
+¡Bienvenido/a a mi perfil de GitHub! Soy estudiante de Ingeniería del Software en la Universidad de Málaga (UMA) 🎓. Me apasiona el mundo de la programación y estoy siempre buscando aprender y mejorar mis habilidades.
+
+
