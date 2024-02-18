@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
   - Mobile Applications
   - Video Games
   - Machine Learning
-- 📫 You can contact me via [email](mailto:antcbaena@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tuperfil).
+- 📫 You can contact me via [email](mailto:antcbaena@gmail.com) or [LinkedIn](https://www.linkedin.com/in/antonio-ca%C3%B1ete-baena-b61a5a235/).
 
 ## My Skills
 
