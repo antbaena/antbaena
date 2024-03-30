@@ -52,4 +52,5 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
 ## GitHub Statistics
 
 [![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ant22031&show_icons=true&theme=dark)](https://github.com/ant22031)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
