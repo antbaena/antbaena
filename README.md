@@ -41,6 +41,8 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
 
 ## GitHub Statistics
 
-[![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ant22031&show_icons=true&theme=dark)](https://github.com/ant22031)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant22031&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ant22031&show_icons=true&locale=en&layout=compact" alt="ant22031" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ant22031&show_icons=true&locale=en" alt="ant22031" /></p>
+
 
