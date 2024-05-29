@@ -45,4 +45,6 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ant22031&show_icons=true&locale=en" alt="ant22031" /></p>
 
+<p><img align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=ant22031&theme=vue-dark&hide_border=true" alt="ant22031"/</p>
+
 
