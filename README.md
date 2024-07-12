@@ -1,6 +1,6 @@
 
 <!--
-**ant22031/ant22031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**antbaena/antbaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,10 +41,10 @@ Welcome to my GitHub profile! I'm a Software Engineering student at the Universi
 
 ## GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ant22031&show_icons=true&locale=en&layout=compact" alt="ant22031" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antbaena&show_icons=true&locale=en&layout=compact" alt="antbaena" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ant22031&show_icons=true&locale=en" alt="ant22031" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antbaena&show_icons=true&locale=en" alt="antbaena" /></p>
 
-<p><img align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=ant22031&theme=default&hide_border=true" alt="ant22031"/</p>
+<p><img align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=antbaena&theme=default&hide_border=true" alt="antbaena"/</p>
 
 
