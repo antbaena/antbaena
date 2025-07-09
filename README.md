@@ -57,11 +57,12 @@ My full portfolio is at [antbaena.github.io](https://antbaena.github.io/)
 ## 📈 GitHub Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antbaena&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=antbaena&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antbaena&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antbaena&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antbaena&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antbaena&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
 
 ## 📫 Connect with Me
