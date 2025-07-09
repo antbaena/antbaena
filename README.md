@@ -1,77 +1,77 @@
+# 👋 Hi there, I’m Antonio Cañete Baena
 
-<!--
-**antbaena/antbaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/antonio-ca%C3%B1ete-baena-b61a5a235/)  
+[![Google Scholar][scholar-badge]](https://scholar.google.com/citations?hl=es&user=V1Q7zwgAAAAJ)  
+[![MAPIR Group][mapir-badge]](https://mapir.isa.uma.es/mapirwebsite/?p=4094)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello! I'm Antonio Cañete Baena 👋
+## 🎓 About Me
 
-Welcome to my GitHub profile! I'm a Software Engineering student at the University of Malaga (UMA) 🎓. I'm passionate about the world of programming and am always looking to learn and improve my skills.
+I’m a **Software Engineering graduate** (UMA) and current M.Sc. in Artificial Intelligence & Software Engineering** at the University of Málaga, with plans to start a **Ph.D.** soon.  
+I work as a **Researcher** in Human–Robot Interaction & Computer Vision for health-related robotics proine Perception and Intelligent Robotics (MAPIR) group, UMA.  
+My full portfolio is at [antbaena.github.io](https://antbaena.github.io/)
 
-## About Me
+---
 
-- 🌱 I'm currently learning and working on projects related to:
-  - Computer Vision
-  - Mobile Applications
-  - Video Games
-  - Machine Learning
-- 📫 You can contact me via [email](mailto:antcbaena@gmail.com) or [LinkedIn](https://www.linkedin.com/in/antonio-ca%C3%B1ete-baena-b61a5a235/).
+## 🚀 Research Interests
 
-## My Skills
+- **Mobile Robotics**  
+- **Aerial Robotics**  
+- Human–Robot Interaction (HRI)  
+- Computer Vision & Machine Learns Systems in Healthcare
 
-- **Programming Languages**: Java, Python, C++, C, C#, Haskell, Dart, R
-- **Technologies**: TensorFlow, OpenCV, Flutter, Unity, Unreal Engine
-- **Databases**: MySQL, Oracle
-- **Version Control Tools**: Git, GitHub
+---
 
-## Languages and Tools:
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="60" height="60"/> 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/777777" alt="python" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/777777" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ros/777777" alt="ros" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/opencv/777777" alt="opencv" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/777777" alt="tensorflow" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pytorch/777777" alt="pytorch" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/unity/777777" alt="unity" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/unrealengine/777777" alt="unrealengine" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/flutter/777777" alt="flutter" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/react/777777" alt="flutter" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/777777" alt="git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/linux/777777" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker/777777" alt="docker" width="40" height="40"/>
+</p>
+
+---
+
+## 🔬 Featured Projects
+
+- **[Sancho ROS2 Workspace](https://github.com/antbaena/sancho_ws)**  
+  ROS 2 Humble-based modular workspace developed for my final degree project (TFG), featuring multimodal interaction packages, full Nav2 navigation stack, and a modern React/Vite web interface. ([github.com](https://github.com/antbaena/sancho_ws))  
+- **[InfoChange](https://github.com/AFND-Industries/InfoChange)**  
+  Innovative exchange and cryptocurrency solution with an intuitive UI, secure transactions, real-time market updates, and support for trading various assets. ([github.com](https://github.com/AFND-Industries/InfoChange))  
+- **[Fake Accounts Instagram](https://github.com/antbaena/Fake-Accounts-Instagram)**  
+  Quarto book project in R for detecting fake Instagram accounts through data exploration, feature selection, visualization, regression model building, and implementation of optimized models. ([github.com](https://github.com/antbaena/Fake-Accounts-Instagram))  
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antbaena&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antbaena&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antbaena&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
-## GitHub Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antbaena&show_icons=true&locale=en&layout=compact" alt="antbaena" /></p>
+## 📫 Connect with Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antbaena&show_icons=true&locale=en" alt="antbaena" /></p>
+- Email: antcbaena@gmail.com  
+- LinkedIn: [Antonio Cañete Baena](https://www.linkedin.com/in/antonio-ca%C3%B1ete-baena-b61a5a235/)  
+- Portfolio: [antbaena.github.io](https://antbaena.github.io/)
 
-<p><img align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=antbaena&theme=default&hide_border=true" alt="antbaena"/</p>
+---
 
-
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white  
+[scholar-badge]: https://img.shields.io/badge/Scholar-Profile-blue?logo=google-scholar  
+[mapir-badge]: https://img.shields.io/badge/MAPIR-UMA-lightgrey  
